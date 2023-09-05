@@ -1,3 +1,4 @@
+// solution bases on the sorting number
 vector<int> findTwoElement(vector<int> arr, int n) {
         // code here
         vector<int> ans;
